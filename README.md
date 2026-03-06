@@ -166,13 +166,6 @@ Figma
 
 ---
 
-# GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanna-Danilishyna&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanna-Danilishyna&layout=compact)
-
----
 
 # Connect With Me
 
