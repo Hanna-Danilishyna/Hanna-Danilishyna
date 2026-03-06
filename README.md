@@ -124,19 +124,6 @@ https://github.com/Hanna-Danilishyna/ecommerce_analytics
 
 ---
 
-### Digital Footprint Analysis
-
-Master’s thesis exploring **personal data exposure on social media** and how users can better understand and control their digital footprints.
-
-The project investigates:
-
-• privacy awareness  
-• behavioral patterns in online self-disclosure  
-• interface design for data transparency  
-
-
----
-
 # Technologies
 
 ### Data & Analytics
