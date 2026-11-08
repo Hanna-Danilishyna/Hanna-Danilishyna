@@ -5,11 +5,10 @@
 
 **Data & Product Analytics | Human-Computer Interaction | UX Research**
 
-I study how people interact with digital systems and how data can help us understand those interactions.
+I'm an interdisciplinary analyst with professional experience at the intersection of UX Research, Data Analytics, and Product Analytics. I combine user-centered research with quantitative analysis to understand user behavior, identify improvement opportunities, and support data-driven product decisions.
 
-My work sits at the intersection of **Human-Computer Interaction, behavioral research, and data analytics**, where qualitative insights about user experience meet quantitative analysis of user behavior.
+My background in Human-Computer Interaction allows me to approach digital products from both analytical and user experience perspectives.
 
-I am particularly interested in using **data to understand how people actually use products and how those insights can support better product decisions**.
 
 🌍 Based in Germany  
 🔗 GitHub: https://github.com/Hanna-Danilishyna  
@@ -79,6 +78,24 @@ I am especially interested in how teams can combine **UX research insights with 
 ---
 
 # Professional Experience
+
+### UX/UI Designer & Data Analyst | Decor Element
+**October 2021 – October 2023** · E-commerce Platform · Remote
+
+Worked at the intersection of User Experience Design, Product Analytics, and Data Analytics, combining user-centered research with quantitative analysis to improve digital products and e-commerce performance.
+
+**Key Responsibilities & Contributions:**
+
+- Conducted user research, analyzed user behavior, and identified usability issues and opportunities to improve digital experiences.
+- Analyzed product performance and business data using **Python and SQL** to identify trends, behavioral patterns, and optimization opportunities.
+- Performed **KPI, conversion funnel, customer segmentation, and retention analyses** to better understand user engagement and customer journeys.
+- Developed interactive dashboards and data visualizations using **Power BI and Tableau** to communicate analytical findings and support data-driven decisions.
+- Translated quantitative findings and qualitative user insights into actionable recommendations for product, design, and development improvements.
+- Created user flows, wireframes, and interactive prototypes, applying Human-Computer Interaction principles to improve usability and navigation.
+- Collaborated with cross-functional teams to evaluate proposed improvements, support implementation, and assess their impact on user experience and product performance.
+- Formulated hypotheses and analyzed **A/B test results** to support iterative product optimization.
+
+---
 
 ### UX/UI Design Working Student
 
