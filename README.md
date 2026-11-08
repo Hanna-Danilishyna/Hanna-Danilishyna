@@ -79,8 +79,8 @@ I am especially interested in how teams can combine **UX research insights with 
 
 # Professional Experience
 
-### UX/UI Designer & Data Analyst | Decor Element
-**October 2021 – October 2023** · E-commerce Platform · Remote
+### UX Designer & Data Analyst | Decor Element
+**October 2021 – October 2023** · E-commerce Platform · Brest, Belarus / Remote
 
 Worked at the intersection of User Experience Design, Product Analytics, and Data Analytics, combining user-centered research with quantitative analysis to improve digital products and e-commerce performance.
 
@@ -97,18 +97,19 @@ Worked at the intersection of User Experience Design, Product Analytics, and Dat
 
 ---
 
-### UX/UI Design Working Student
 
-In my previous role I conducted **end-to-end user research** for a new product line.
+### UX/UI Design Intern | Diesel Puppet
+**June 2021 – September 2021** · Mobile Game Studio · Minsk, Belarus
 
-This involved working directly with users through interviews, surveys, and focus groups and analyzing both qualitative and quantitative data.
+Contributed to mobile game design and product development, focusing on user experience, interaction design, and iterative improvements based on user feedback and behavioral insights.
 
-Research insights were translated into product improvements that resulted in:
+**Key Responsibilities & Contributions:**
 
-• **20% increase in user satisfaction**  
-• **85% positive early user feedback**
-
-This experience strengthened my interest in **connecting research insights with data analysis to support product decisions**.
+- Analyzed user behavior and identified usability issues and opportunities to improve user engagement and overall product experience.
+- Created wireframes and interactive prototypes to visualize and validate design concepts before implementation.
+- Supported user research and evaluated design solutions based on user feedback and behavioral analysis.
+- Collaborated with design and development teams in an agile environment to refine product interfaces and improve user interactions.
+- Contributed to iterative design improvements, helping reduce development rework through early validation of design concepts.
 
 ---
 
